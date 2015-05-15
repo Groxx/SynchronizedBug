@@ -1,7 +1,7 @@
 package com.example.blocky;
 
 public class Blocks {
-  private static final long INIT_SLEEP = 500;
+  public static final long INIT_SLEEP = 500;
   private static final long BLOCK_SLEEP = 1000;
 
   static {
